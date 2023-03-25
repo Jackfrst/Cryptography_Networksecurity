@@ -1,4 +1,4 @@
-# Caesar_cipher
+# Vigenere_cipher
 
 ## Encryption
 Message:
