@@ -9,22 +9,25 @@
   </tr>
   <tr>
     <th>RSA</th>
-    <th>https://github.com/Jackfrst/Cryptography_Networksecurity/tree/57c3229b763c7b6e532b1cfbc07749c8c1d55344/RSA%20Algorithm</th>
+    <th><a href="https://github.com/Jackfrst/Cryptography_Networksecurity/tree/57c3229b763c7b6e532b1cfbc07749c8c1d55344/RSA%20Algorithm" target="_blank"> RSA </a></th>
   </tr>
   <tr>
     <th>Rail Fance Cipher</th>
-    <th>https://github.com/Jackfrst/Cryptography_Networksecurity/tree/57c3229b763c7b6e532b1cfbc07749c8c1d55344/Rail%20Fance</th>
+    <th><a href="https://github.com/Jackfrst/Cryptography_Networksecurity/tree/57c3229b763c7b6e532b1cfbc07749c8c1d55344/Rail%20Fance" target="_blank"> CODE </a></th>
   </tr>
   <tr>
     <th>Vigenenre Cipher</th>
+    <th><a href="https://github.com/Jackfrst/Cryptography_Networksecurity/tree/57c3229b763c7b6e532b1cfbc07749c8c1d55344/Mono%20Alphabetic" target="_blank"> CODE </a></th>
     <th>https://github.com/Jackfrst/Cryptography_Networksecurity/tree/57c3229b763c7b6e532b1cfbc07749c8c1d55344/Vigenere%20Cipher</th>
   </tr>
   <tr>
     <th>Ceasar Cipher</th>
+    <th><a href="https://github.com/Jackfrst/Cryptography_Networksecurity/tree/57c3229b763c7b6e532b1cfbc07749c8c1d55344/Mono%20Alphabetic" target="_blank"> CODE </a></th>
     <th>https://github.com/Jackfrst/Cryptography_Networksecurity/tree/57c3229b763c7b6e532b1cfbc07749c8c1d55344/caesar_cipher</th>
   </tr>
     <tr>
     <th>One time pad</th>
+    <th><a href="https://github.com/Jackfrst/Cryptography_Networksecurity/tree/57c3229b763c7b6e532b1cfbc07749c8c1d55344/Mono%20Alphabetic" target="_blank"> CODE </a></th>
     <th>https://github.com/Jackfrst/Cryptography_Networksecurity/tree/57c3229b763c7b6e532b1cfbc07749c8c1d55344/one_time_pad</th>
   </tr>
 </table>
