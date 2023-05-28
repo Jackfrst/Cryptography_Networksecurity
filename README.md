@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <th>Mono Alphabetic Cipher</th>
-    <th><a herf="https://github.com/Jackfrst/Cryptography_Networksecurity/tree/57c3229b763c7b6e532b1cfbc07749c8c1d55344/Mono%20Alphabetic"> CODE </a></th>
+    <th><a href="https://www.google.com/" target="_blank"> Text </a></th>
   </tr>
   <tr>
     <th>RSA</th>
